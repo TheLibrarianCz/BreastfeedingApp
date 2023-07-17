@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kojeni APP</string>
+    <!-- Screen common -->
+    <string name="feeding_probiotics_label">Probiotika</string>
+    <string name="feeding_next_feeding_header">Nové kojení</string>
+    <string name="feeding_left_breast_label">Levé</string>
+    <string name="feeding_right_breast_label">Pravé</string>
+    <string name="feeding_both_breasts_label">Obě</string>
+    <string name="feeding_additions_label">Kapičky</string>
+    <string name="feeding_safe_dialog_button">Uložit</string>
+    <string name="feeding_cancel_dialog_button">Zrušit</string>
+    <!-- Nav bar -->
+    <string name="nav_item_breastfeeding">Kojení</string>
+    <string name="nav_item_history">Historie</string>
+    <!-- History item -->
+    <string name="history_item_date_label">Datum:</string>
+    <string name="history_item_count_label">Počet:</string>
+    <string name="history_item_average_label">Průměr:</string>
+    <string name="history_item_max_label">Max:</string>
+    <string name="history_item_tomorrow">Zítra</string>
+    <!-- Next feeding card -->
+    <string name="next_feeding_card_last_feeding">Poslední kojení:</string>
+    <string name="next_feeding_card_next_feeding">Příští kojení:</string>
+    <!-- Settings -->
+    <string name="settings_title">Nastavení</string>
+    <string name="settings_feeding_hour_title">Příští kojení interval</string>
+    <string name="settings_feeding_hour_description">Vkládání dat dialogem</string>
+    <string name="settings_statistics_history_title">Délka historie statistik</string>
+    <string name="settings_use_dialog_title">Pokud je zapnuto, při kliknutí na + na hlavní obrazovce je zadávání nového kojení provedeno přes dialogové okno. Pokud je vypnuto, pak se zadává přes novou obrazovku.</string>
+    <string name="settings_use_dialog_description">Počet dní zpětně pro historii zobrazovaných statistik. +%d dní zpětně.</string>
+    <string name="settings_statistics_history_description">+%d hodin</string>
+    <string name="settings_import_title">Import dat</string>
+    <string name="settings_import_description">Načte předchozí exportovaná data</string>
+    <string name="settings_export_title">Export dat</string>
+    <string name="settings_export_description">Uloží aktuální data do souboru</string>
+    <string name="settings_message_permission">Chyba povolení. Zkontrolujte nastavení aplikace.</string>
+    <string name="settings_message_export">Uloženo do: %s</string>
+    <string name="settings_message_import">Načteno z: %s</string>
+</resources>

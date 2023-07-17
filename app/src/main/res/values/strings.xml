@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breastfeeding APP</string>
+    <!-- Feedings -->
+    <string name="feeding_vigantol_label" translatable="false">Vigantol</string>
+    <string name="feeding_espumisan_label" translatable="false">Espumisan</string>
+    <string name="feeding_probiotics_label">Probiotics</string>
+    <string name="feeding_next_feeding_header">Next feeding</string>
+    <string name="feeding_left_breast_label">Left</string>
+    <string name="feeding_right_breast_label">Right</string>
+    <string name="feeding_both_breasts_label">Both</string>
+    <string name="feeding_additions_label">Additions</string>
+    <string name="feeding_safe_dialog_button">Save</string>
+    <string name="feeding_cancel_dialog_button">Cancel</string>
+    <!-- Nav bar -->
+    <string name="nav_item_breastfeeding">Breastfeeding</string>
+    <string name="nav_item_history">History</string>
+    <!-- History item -->
+    <string name="history_item_date_label">Date:</string>
+    <string name="history_item_count_label">Count:</string>
+    <string name="history_item_average_label">Average:</string>
+    <string name="history_item_max_label">Max:</string>
+    <string name="history_item_times_per_day" translatable="false">%dx</string>
+    <string name="history_item_min_only" translatable="false">%d min</string>
+    <string name="history_item_hour_and_min" translatable="false">%d h %d min</string>
+    <string name="history_item_tomorrow">Tomorrow</string>
+    <!-- Next feeding card -->
+    <string name="next_feeding_card_last_feeding">Last feeding:</string>
+    <string name="next_feeding_card_next_feeding">Next feeding:</string>
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_feeding_hour_title">Next feeding interval</string>
+    <string name="settings_feeding_hour_description">Insert by dialog</string>
+    <string name="settings_statistics_history_title">History length</string>
+    <string name="settings_statistics_history_description">+%d hours</string>
+    <string name="settings_use_dialog_title">If enabled, creating new records are done by a dialog. Otherwise it is done by opening a new screen.</string>
+    <string name="settings_use_dialog_description">Number of days shown in history screen. +%d days backwards.</string>
+    <string name="settings_import_title">Import data</string>
+    <string name="settings_import_description">Loads previously exported data</string>
+    <string name="settings_export_title">Export data</string>
+    <string name="settings_export_description">Saves current data into a file</string>
+    <string name="settings_message_permission">Permission error. Check applications settings.</string>
+    <string name="settings_message_export">Exported to: %s</string>
+    <string name="settings_message_import">Imported from: %s</string>
+</resources>
